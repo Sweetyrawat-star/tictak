@@ -42,10 +42,9 @@ presentation -> ui screen
 
 
 |  Tictak App View                                             |                                                                             
- <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/tictak/assets/57385799/e5964842-6768-456e-b0e7-ea92fcf536db.png">|
+ <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/tictak/assets/57385799/e5964842-6768-456e-b0e7-ea92fcf536db.png">
 
-
-<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/Sweetyrawat-star/tictak/assets/57385799/3f525c8a-3eb5-4df4-a5c3-9a3ebe842d1e.png">|
+<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/Sweetyrawat-star/tictak/assets/57385799/3f525c8a-3eb5-4df4-a5c3-9a3ebe842d1e.png">
 
 
 
