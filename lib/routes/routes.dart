@@ -13,11 +13,6 @@ class Routes {
   static final data = {
     "/authscreen": (context) => Login(),
     "/home": (context) => HomeScreenActivity(),
-    "/splash": (context) => SplashScreen(),
-    "/leaderboard": (context) => LeaderBoardScreen(),
-    "/profile": (context) => Profile(),
-    "/shop": (context) => ShopScreen(),
-    "/skin": (context) => Skins(),
-    "/gamehistory": (context) => GameHistory(),
+
   };
 }
