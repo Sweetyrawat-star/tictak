@@ -6,9 +6,7 @@ A new Flutter project.
 
 This project is a gaming app.
 
-I used firebase to show notes offline and online functionality. 
-Firebase_auth to authenticate user 
-Firebase support offline feature to show data offline.
+
 
 #feature
 [1] Login screen.
